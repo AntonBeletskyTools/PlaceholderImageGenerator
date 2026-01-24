@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --name "asguard_placeholder" placeholder.py
