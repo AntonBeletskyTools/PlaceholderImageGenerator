@@ -1,0 +1,1 @@
+asguard_placeholder.exe 1920x1080 --bg #f5f5f5 --text #000000 --out 1920_1080_f5f5f5_ecf0f1.png
